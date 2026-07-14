@@ -1,0 +1,4 @@
+Hello, Kallol!
+Welcome to Python.
+Have a great day!
+Keep practicing every day!
